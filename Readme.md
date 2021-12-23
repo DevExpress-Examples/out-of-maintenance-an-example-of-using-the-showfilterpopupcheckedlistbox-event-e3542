@@ -8,7 +8,7 @@
 
 * [Form1.cs](./CS/ShowFilterPopupCheckedListBox%20example/Form1.cs) (VB: [Form1.vb](./VB/ShowFilterPopupCheckedListBox%20example/Form1.vb))
 <!-- default file list end -->
-# An example of using the ShowFilterPopupCheckedListBox event
+# An example of using the ShowFilterPopupCheckedListBox event 
 
 
 <p>This example demonstrates how to remove the "(Select All)" item from the column's filter dropdown.</p>
